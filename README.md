@@ -112,6 +112,11 @@ Session 2 — Earlier enumeration session:
 Both sessions correctly identified and surfaced
 by the detection rule.
 
+## Evidence
+
+**NTLM Enumeration Burst Detection — Live Sentinel Output**
+![NTLM Enumeration Detection Results](ntlm-enumeration-results.png)
+
 ## So What
 An enumeration tool running against your domain
 controller is the clearest signal that an attacker
